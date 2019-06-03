@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Delivery Zones and Prices</name>
+    <NetworkLink>
+      <name>Delivery Zones</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1ieX0nsf5uoH0fA8ncJCV3F1KJucfMDa7&lid=57RA_863DqA]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
